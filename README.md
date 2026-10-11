@@ -10,7 +10,7 @@ See Smart_Environment_Monitor_Project_Guide.pdf in this folder.
 ESP32, DHT22, potentiometer, Python, FastAPI, scikit-learn, Streamlit
 
 ## Team
-SANIKA
-sakshi
-seema
-radhika
+Sanika H H
+Sakshi jaganath
+Seema Sondkar
+Radhika U
