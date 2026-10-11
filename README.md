@@ -11,6 +11,9 @@ ESP32, DHT22, potentiometer, Python, FastAPI, scikit-learn, Streamlit
 
 ## Team
 Sanika H H
-Sakshi jaganath
-Seema Sondkar
+<br>
+Sakshi jagannath
+<br>
+Seema Sondakar
+<br>
 Radhika U
